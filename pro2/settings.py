@@ -83,8 +83,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT':{
-            'host':"mongodb+srv://dbkritin:kritinnitin@cluster0.labbs9t.mongodb.net/?retryWrites=true&w=majority",
-            'name':'dbkritin',
+            'host':"",
+            'name':'',
         } 
     }
 }
